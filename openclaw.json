@@ -1,0 +1,21 @@
+{
+  "messages": {
+    "tts": {
+      "auto": "inbound",
+      "provider": "elevenlabs",
+      "providers": {
+        "elevenlabs": {
+          "apiKey": "aa30f405ec0c1ce39707fbf76436b6c932474c6a5985a5693d363e87c1a899f0",
+          "voiceId": "Fahco4VZzobUeiPqni1S",
+          "modelId": "eleven_v3",
+          "languageCode": "es",
+          "voiceSettings": {
+            "stability": 0.5,
+            "similarityBoost": 0.75,
+            "speed": 1.0
+          }
+        }
+      }
+    }
+  }
+}

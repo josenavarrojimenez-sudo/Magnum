@@ -1,0 +1,3843 @@
+[Fri Apr 10 15:35:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 15:35:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (2 unique hashes need vectors)
+[Fri Apr 10 15:35:03 UTC 2026] Embedding 2 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 15:40:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 15:40:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 15:40:06 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 15:45:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 15:45:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 2 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (3 unique hashes need vectors)
+[Fri Apr 10 15:45:07 UTC 2026] Embedding 3 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 15:50:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 15:50:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 15:50:08 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 15:55:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 15:55:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 15:55:09 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 16:00:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:00:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (5 unique hashes need vectors)
+[Fri Apr 10 16:00:13 UTC 2026] Embedding 5 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 16:05:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:05:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (5 unique hashes need vectors)
+[Fri Apr 10 16:05:14 UTC 2026] Embedding 5 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 16:10:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:10:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:10:16 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 608 chunks from 5 documents in 36m 21s
+⚠ 625 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 320 chunks from 5 documents in 31m 23s
+⚠ 913 chunks failed
+[Fri Apr 10 16:15:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:15:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:15:13 UTC 2026] Embedding 4 documentos nuevos...
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 104 chunks from 5 documents in 30m 6s
+⚠ 1129 chunks failed
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 16:20:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:20:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:20:12 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 192 chunks from 5 documents in 34m 26s
+⚠ 1042 chunks failed
+[Fri Apr 10 16:25:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:25:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 2 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:25:14 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 106 chunks from 5 documents in 30m 19s
+⚠ 1134 chunks failed
+[Fri Apr 10 16:30:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:30:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:30:13 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 86 chunks from 5 documents in 30m 15s
+⚠ 1174 chunks failed
+[Fri Apr 10 16:35:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:35:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 2 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:35:13 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 89 chunks from 5 documents in 30m 5s
+⚠ 1185 chunks failed
+[Fri Apr 10 16:40:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:40:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:40:11 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 16:45:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:45:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:45:15 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 128 chunks from 5 documents in 31m 2s
+⚠ 1206 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 192 chunks from 5 documents in 37m 51s
+⚠ 1110 chunks failed
+[Fri Apr 10 16:50:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:50:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:50:13 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 5 documents in 31m 53s
+⚠ 1199 chunks failed
+[Fri Apr 10 16:55:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 16:55:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 16:55:13 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 61 chunks from 5 documents in 30m 10s
+⚠ 1298 chunks failed
+[Fri Apr 10 17:00:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:00:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:00:18 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 90 chunks from 5 documents in 31m 56s
+⚠ 1271 chunks failed
+[Fri Apr 10 17:05:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:05:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:05:16 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 17:10:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:10:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:10:17 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 128 chunks from 5 documents in 36m 0s
+⚠ 1233 chunks failed
+[Fri Apr 10 17:15:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:15:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:15:19 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 5 documents in 30m 35s
+⚠ 1283 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 89 chunks from 5 documents in 37m 29s
+⚠ 1281 chunks failed
+[Fri Apr 10 17:20:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:20:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:20:17 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 5 documents in 30m 21s
+⚠ 1326 chunks failed
+[Fri Apr 10 17:25:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:25:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:25:14 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+[Fri Apr 10 17:30:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:30:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:30:18 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 5 documents in 37m 8s
+⚠ 1279 chunks failed
+[Fri Apr 10 17:35:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:35:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:35:18 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 5 documents in 30m 54s
+⚠ 1355 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 91 chunks from 5 documents in 37m 24s
+⚠ 1349 chunks failed
+[Fri Apr 10 17:40:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:40:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 56 chunks from 5 documents in 30m 6s
+⚠ 1405 chunks failed
+[Fri Apr 10 17:40:56 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 17:45:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:45:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (4 unique hashes need vectors)
+[Fri Apr 10 17:45:35 UTC 2026] Embedding 4 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 17:50:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:50:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 1 new, 1 updated, 1 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 17:50:42 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 5 documents in 37m 20s
+⚠ 1315 chunks failed
+[Fri Apr 10 17:55:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 17:55:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 17:55:30 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 5 documents in 37m 12s
+⚠ 1317 chunks failed
+[Fri Apr 10 18:00:03 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:00:03 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:00:40 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 55 chunks from 5 documents in 36m 34s
+⚠ 1444 chunks failed
+[Fri Apr 10 18:05:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:05:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:05:39 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 54 chunks from 5 documents in 37m 18s
+⚠ 1476 chunks failed
+[Fri Apr 10 18:10:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:10:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 2 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 18:10:47 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 51 chunks from 5 documents in 37m 14s
+⚠ 1506 chunks failed
+[Fri Apr 10 18:15:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:15:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 18:15:36 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 5 documents in 30m 13s
+⚠ 1502 chunks failed
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 51 chunks from 5 documents in 35m 47s
+⚠ 1524 chunks failed
+[Fri Apr 10 18:20:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:20:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+[Fri Apr 10 18:20:33 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 84 chunks from 6 documents in 33m 53s
+⚠ 2327 chunks failed
+[Fri Apr 10 18:25:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:25:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+[Fri Apr 10 18:25:29 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 84 chunks from 6 documents in 32m 51s
+⚠ 2336 chunks failed
+[Fri Apr 10 18:30:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:30:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+[Fri Apr 10 18:30:36 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 85 chunks from 6 documents in 32m 3s
+⚠ 2371 chunks failed
+[Fri Apr 10 18:35:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:35:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+[Fri Apr 10 18:35:34 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 81 chunks from 6 documents in 30m 4s
+⚠ 2476 chunks failed
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 18:40:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:40:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:40:41 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 8 documents in 32m 1s
+⚠ 2410 chunks failed
+[Fri Apr 10 18:45:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:45:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 2 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:45:28 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 54 chunks from 8 documents in 30m 10s
+⚠ 2523 chunks failed
+[Fri Apr 10 18:50:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:50:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:50:31 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 81 chunks from 8 documents in 30m 0s
+⚠ 2502 chunks failed
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 18:55:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 18:55:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (6 unique hashes need vectors)
+[Fri Apr 10 18:55:50 UTC 2026] Embedding 6 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 84 chunks from 8 documents in 30m 29s
+⚠ 2505 chunks failed
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:00:04 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:00:04 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+[Fri Apr 10 19:00:35 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 103 chunks from 8 documents in 30m 5s
+⚠ 2492 chunks failed
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:05:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:05:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (7 unique hashes need vectors)
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 103 chunks from 8 documents in 30m 7s
+⚠ 2500 chunks failed
+[Fri Apr 10 19:05:48 UTC 2026] Embedding 7 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:10:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:10:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:10:40 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 98 chunks from 8 documents in 30m 12s
+⚠ 2519 chunks failed
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:15:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:15:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:15:41 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 8 documents in 31m 14s
+⚠ 2548 chunks failed
+[Fri Apr 10 19:20:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:20:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:20:41 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:25:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:25:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:25:42 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 64 chunks from 8 documents in 30m 45s
+⚠ 2650 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 8 documents in 37m 13s
+⚠ 2605 chunks failed
+[Fri Apr 10 19:30:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:30:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:30:35 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 14 chunks from 8 documents in 30m 23s
+⚠ 2715 chunks failed
+[Fri Apr 10 19:35:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:35:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:35:37 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 13 chunks from 8 documents in 30m 32s
+⚠ 2724 chunks failed
+[Fri Apr 10 19:40:03 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:40:03 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:40:42 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 15 chunks from 8 documents in 30m 26s
+⚠ 2734 chunks failed
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:45:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:45:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:45:40 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 64 chunks from 8 documents in 31m 38s
+⚠ 2712 chunks failed
+[Fri Apr 10 19:50:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:50:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 5 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:50:34 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 64 chunks from 8 documents in 30m 7s
+⚠ 2739 chunks failed
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 19:55:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 19:55:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 19:55:31 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 20:00:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:00:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:01:11 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 20 chunks from 8 documents in 36m 0s
+⚠ 2791 chunks failed
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 20:05:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:05:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 5 unchanged, 0 removed
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 50 chunks from 8 documents in 34m 39s
+⚠ 2835 chunks failed
+[Fri Apr 10 20:05:34 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 52 chunks from 8 documents in 33m 31s
+⚠ 2961 chunks failed
+[Fri Apr 10 20:10:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:10:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:10:36 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 52 chunks from 8 documents in 32m 53s
+⚠ 2963 chunks failed
+[Fri Apr 10 20:15:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:15:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:15:32 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 49 chunks from 8 documents in 30m 21s
+⚠ 2969 chunks failed
+[Fri Apr 10 20:20:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:20:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:20:36 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 96 chunks from 8 documents in 30m 31s
+⚠ 2922 chunks failed
+[Fri Apr 10 20:25:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:25:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:25:37 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+[Fri Apr 10 20:30:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:30:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:30:36 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 8 documents in 37m 6s
+⚠ 2950 chunks failed
+[Fri Apr 10 20:35:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:35:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 2 updated, 3 unchanged, 0 removed
+Cleaned up 2 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:35:33 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 51 chunks from 8 documents in 35m 23s
+⚠ 3077 chunks failed
+[Fri Apr 10 20:40:02 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:40:02 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:40:33 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 83 chunks from 8 documents in 30m 18s
+⚠ 3099 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 54 chunks from 8 documents in 35m 26s
+⚠ 3074 chunks failed
+[Fri Apr 10 20:45:01 UTC 2026] Iniciando sincronización de memoria...
+[Fri Apr 10 20:45:01 UTC 2026] Actualizando QMD collections...
+Updating 2 collection(s)...
+
+[1/2] cornelio-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/cornelio/sessions (*.jsonl)
+
+Indexed: 0 new, 1 updated, 4 unchanged, 0 removed
+Cleaned up 1 orphaned content hash(es)
+
+[2/2] magnum-sessions (*.jsonl)
+Collection: /root/.openclaw/agents/magnum/sessions (*.jsonl)
+
+Indexed: 0 new, 0 updated, 3 unchanged, 0 removed
+
+✓ All collections updated.
+
+Run 'qmd embed' to update embeddings (8 unique hashes need vectors)
+[Fri Apr 10 20:45:31 UTC 2026] Embedding 8 documentos nuevos...
+Force re-indexing: clearing all vectors...
+Model: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "2.51.0")
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Including CPU backend
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -march=native 
+-- Configuring incomplete, errors occurred!
+
+[node-llama-cpp] To resolve errors related to Vulkan compilation, see the Vulkan guide: https://node-llama-cpp.withcat.ai/guide/Vulkan
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 85 chunks from 8 documents in 33m 19s
+⚠ 3134 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 84 chunks from 8 documents in 33m 22s
+⚠ 3152 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 90 chunks from 8 documents in 33m 49s
+⚠ 3158 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 160 chunks from 8 documents in 31m 40s
+⚠ 3108 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 192 chunks from 8 documents in 35m 34s
+⚠ 3136 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 192 chunks from 8 documents in 32m 31s
+⚠ 3190 chunks failed
+██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 384 chunks from 8 documents in 30m 23s
+⚠ 3052 chunks failed
