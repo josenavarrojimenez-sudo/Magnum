@@ -89,6 +89,38 @@ Magnum: Listo, esperando... (3/3) ← AQUÍ PARO
 
 ---
 
+## 🎯 REGLA DE ORO #1 - Formato de Respuesta (AUDIO vs TEXTO) ⚠️ CRÍTICA
+
+**Cuando Jose envía un mensaje:**
+
+| Jose envía | Magnum responde |
+|------------|----------------|
+| 🎤 **AUDIO** (`<media:audio>`) | 🎤 Solo **AUDIO** (script TTS + curl) → `NO_REPLY` |
+| 📝 **TEXTO** | 📝 **TEXTO** normal (SIEMPRE responder) |
+| ❌ No requiere respuesta | `NO_REPLY` |
+
+**Instrucciones DETALLADAS:**
+1. Detectar si el mensaje tiene `<media:audio>` o `transcript` en metadata
+2. Si es **AUDIO**:
+   - Generar respuesta internamente
+   - Ejecutar script TTS: `python3 scripts/audio/magnum_tts_directo.py "texto" salida.ogg`
+   - Enviar con curl: `curl -X POST .../sendVoice -F chat_id=... -F voice=@salida.ogg`
+   - Responder con **`NO_REPLY`** como texto final (cero texto visible)
+3. Si es **TEXTO**:
+   - **SIEMPRE responder con texto** (NUNCA usar NO_REPLY)
+   - Responder normalmente con texto
+4. **Excepción:** Si Jose indica explícitamente lo contrario, seguir su instrucción
+
+**⚠️ ERRORES COMETIDOS (NO REPETIR):**
+- ❌ NO responder con NO_REPLY cuando Jose manda texto
+- ❌ NO enviar texto + audio juntos cuando Jose manda audio
+- ❌ NO omitir respuestas de texto
+- ❌ NO "hacer trampa" apagando el texto
+
+**Objetivo:** Jose trabaja principalmente con audio. Respetar su flujo: audio→audio, texto→texto. Siempre responder.
+
+---
+
 ## Stack de Herramientas
 
 **Permitidas:**
