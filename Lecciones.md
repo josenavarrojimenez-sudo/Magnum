@@ -194,3 +194,49 @@ Los tokens y claves de API se estaban guardando en archivos del workspace, lo cu
 ---
 
 _Ultima actualización: 2026-04-12_
+
+---
+
+## LECCIÓN 8: Creación de Nuevo Agente "Prolix" (2026-04-12)
+
+### Proceso Completado
+
+1. **Workspace independiente** creado en `/root/.openclaw/workspace-prolix/`
+2. **Archivos base:**
+   - `IDENTITY.md` - Identidad del agente
+   - `AGENTS.md` - Roles y responsabilidades
+   - `scripts/audio/prolix_tts_directo.py` - Script TTS
+   - `skills/uber-eats-scraper/` - Skill copiada de Magnum
+3. **Registrado en `openclaw.json`** con id "prolix"
+4. **Repo GitHub creado:** `josenavarrojimenez-sudo/prolix`
+
+### Configuración en openclaw.json
+
+```json
+{
+  "id": "prolix",
+  "name": "Prolix - Agente de Investigación",
+  "workspace": "/root/.openclaw/workspace-prolix",
+  "agentDir": "/root/.openclaw/agents/prolix/agent",
+  "sandbox": { "mode": "off" },
+  "tools": { "allow": [...] }
+}
+```
+
+### Archivos Creados
+
+| Archivo | Descripción |
+|---------|-------------|
+| `IDENTITY.md` | Nombre, emoji, personalidad, background |
+| `AGENTS.md` | Roles, cadena de mando, pattern de trabajo |
+| `scripts/audio/prolix_tts_directo.py` | Script TTS propio |
+| `skills/uber-eats-scraper/*` | Skill de scraping |
+
+### Nota Importante
+
+⚠️ Jose confirmó: cada agente debe tener workspace TOTALMENTE independiente.
+⚠️ No compartir workspaces entre agentes.
+
+---
+
+_Ultima actualización: 2026-04-12_
