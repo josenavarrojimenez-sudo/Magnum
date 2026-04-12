@@ -1,74 +1,108 @@
----
-name: menu-scraper
-description: Extrae menús de restaurantes desde plataformas como Uber Eats o Rappi usando JSON-LD embebido en el HTML. Captura menu completo con precios, descripciones, imagenes y datos de contacto. Se activa con frases como scrapear menu, extraer restaurante, capturar precios de delivery u obtener informacion de restaurante desde URL.
----
+# UBER EATS SCRAPER - Complete Toolkit
 
-# MENU-SCRAPER
+## Overview
 
-Extrae menús de restaurantes desde plataformas como Uber Eats, Rappi, etc. usando JSON-LD embebido en el HTML.
+Este skill permite hacer scraping completo de menús de Uber Eats usando Playwright para ejecutar JavaScript y capturar contenido dinámico.
 
-## Cuando Usar
+## Herramientas Disponibles
 
-- "Scrapear menú de Uber Eats"
-- "Extraer información de restaurante de una URL"
-- "Capturar menú completo de [plataforma]"
-- "Obtener precios y descripciones de un restaurante online"
+### 1. Playwright Setup
+```bash
+npm install -g playwright
+npx playwright install chromium
+```
 
-## Proceso
+### 2. Scripts Disponibles
 
-### 1. Obtener JSON-LD
+| Script | Purpose |
+|--------|---------|
+| `scrape_uber_eats_v2.py` | Debug - captura estructura básica |
+| `scrape_uber_eats_full.py` | Full scraping con screenshots |
+| `scrape_uber_eats_complete.py` | Complete con deep scroll |
+| `download_images.py` | Descarga imágenes desde URLs JSON |
+| `parse_menu.py` | Parsea JSON-LD a markdown/JSON |
+
+### 3. Técnicas de Scraping
+
+#### a) Page Load + Basic Scroll
+```python
+await page.goto(url, wait_until="domcontentloaded")
+await page.wait_for_timeout(3000)
+```
+
+#### b) Deep Scroll (Bounce technique)
+```python
+for i in range(15):
+    for y in range(0, total_height, 400):
+        await page.evaluate(f"window.scrollTo(0, {y})")
+        await page.wait_for_timeout(300)
+    await page.evaluate("window.scrollTo(0, 0)")
+```
+
+#### c) Mobile Viewport (bypassa anti-bot)
+```python
+context = await browser.new_context(
+    viewport={"width": 412, "height": 915},
+    user_agent="Mozilla/5.0 (Linux; Android 11; SM-G991B)..."
+)
+```
+
+#### d) Extract Images
+```python
+images = await page.evaluate("""
+    () => [...new Set(Array.from(document.querySelectorAll('img'))
+        .filter(img => img.src && img.naturalWidth > 0)
+        .map(img => img.src))]
+""")
+```
+
+## Workflow Completo
+
+1. **Install Playwright** (una vez)
+2. **Load page** con mobile viewport
+3. **Deep scroll** para cargar imágenes lazy
+4. **Extract images** y deduplicate
+5. **Download** imágenes >30KB (fotos reales)
+6. **Save** JSON con menú estructurado
+
+## Estructura de Output
+
+```
+woods-pizza-data/
+├── productos/productos.json   # 86 items estructurados
+├── imagenes/                   # 75 fotos de comida
+├── screenshots/                # menu_completo.png
+└── data/                       # datos crudos
+```
+
+## Notas Técnicas
+
+- Uber Eats usa lazy loading - imágenes solo cargan cuando están en viewport
+- Mobile viewport ayuda a bypass anti-bot detection
+- Deduplicación: mismo tamaño = misma imagen
+- Filtrar: >30KB = foto real de comida, <10KB = ícono/logo
+- Full page screenshot puede llegar a 12,000+ px de altura
+
+## Troubleshooting
+
+| Problema | Solución |
+|----------|----------|
+| 0 images | Verificar que page cargó JS (wait_for_timeout) |
+| Solo secciones vacías | Usar mobile viewport |
+| Imágenes repetidas | Deduplicate por tamaño |
+| Page blocked | Usar user-agent mobile + wait más largo |
+
+## Ejemplo de Uso
 
 ```bash
-curl -sL "URL" -H "User-Agent: Mozilla/5.0" | grep -oP 'application/ld\+json">[^<]+' | sed 's/application\/ld+json">//' > data.json
+# Instalar
+npm install -g playwright
+npx playwright install chromium
+
+# Scrapear
+python3 scripts/scrape_uber_eats_complete.py "URL_UBER_EATS" ./output
 ```
 
-### 2. Parsear y Extraer Datos
+## API Keys Necesarias
 
-```python
-import json
-
-with open('data.json') as f:
-    d = json.load(f)
-
-# Información del restaurante
-print(f"Nombre: {d['name']}")
-print(f"Dirección: {d['address']['streetAddress']}")
-print(f"Rating: {d['aggregateRating']['ratingValue']}")
-
-# Menú por secciones
-for section in d.get('hasMenu', {}).get('hasMenuSection', []):
-    print(f"\n## {section['name']}")
-    for item in section.get('hasMenuItem', []):
-        name = item['name']
-        desc = item.get('description', '')
-        price = item.get('offers', {}).get('price', 'N/A')
-        print(f"- {name}: ₡{price} | {desc}")
-```
-
-### 3. Guardar Resultados
-
-- `.md` → Menú formateado para humanos
-- `.json` → Datos crudos para procesamiento
-- `/images/` → Imágenes descargadas
-
-## Plataformas Soportadas
-
-| Plataforma | Funciona | Notas |
-|------------|----------|-------|
-| Uber Eats | ✅ | JSON-LD en Schema.org |
-| Rappi | ⚠️ | Puede requerir JS render |
-| PedidosYa | ⚠️ | Puede requerir JS render |
-| Other | ⚠️ | Probar primero el método JSON-LD |
-
-## Limitaciones
-
-- Solo extrae datos disponibles en HTML (JSON-LD embebido)
-- No funciona con SPAs que cargan contenido solo con JavaScript
-- Precios pueden cambiar, verificar en la plataforma
-
-## Scripts Disponibles
-
-- `scripts/download_images.py` - Descarga imágenes del restaurante
-- `scripts/parse_menu.py` - Parser reusable para diferentes formatos
-
-Para detalles ver [references/references.md](references/references.md)
+Ninguna - solo curl y requests (para descarga de imágenes).

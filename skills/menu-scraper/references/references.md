@@ -1,101 +1,159 @@
-# MENU-SCRAPER - Referencias
+# UBER EATS SCRAPER - Technical Reference
 
-## Método JSON-LD (Más Confiable)
+## Complete Playwright Setup
 
-Muchas plataformas de delivery embeben datos estructurados en formato JSON-LD (Schema.org) directamente en el HTML. Este método funciona sin ejecutar JavaScript.
-
-### Paso a Paso Completo
-
+### Installation
 ```bash
-# 1. Obtener el HTML
-curl -sL "URL_DEL_RESTAURANTE" \
-  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
-  -H "Accept-Language: es-419,es;q=0.9" \
-  > page.html
-
-# 2. Extraer JSON-LD
-grep -oP 'application/ld\+json">[^<]+' page.html | head -1 | sed 's/application\/ld+json">//' > data.json
-
-# 3. Verificar que tenemos datos válidos
-python3 -c "import json; d=json.load(open('data.json')); print('Nombre:', d.get('name'))"
-
-# 4. Parsear y guardar
-python3 parse_menu.py data.json --format md > menu.md
+npm install -g playwright
+npx playwright install chromium
 ```
 
-## Plataformas Específicas
+### Key Scripts
 
-### Uber Eats
+#### scrape_uber_eats_v2.py (Debug)
+```python
+import asyncio
+from playwright.async_api import async_playwright
 
-```bash
-# URL típica: https://www.ubereats.com/country/store/ID
-curl -sL "URL" | grep -oP 'application/ld\+json">[^<]+' | sed 's/application\/ld+json">//' > ubereats_data.json
+async def debug_scrape():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(
+            viewport={"width": 390, "height": 844},
+            user_agent="Mozilla/5.0 (Linux; Android 11; SM-G991B)..."
+        )
+        page = await context.new_page()
+        
+        await page.goto(url, wait_until="domcontentloaded")
+        await page.wait_for_timeout(5000)
+        
+        # Get body text and sections
+        body_text = await page.evaluate("document.body.innerText")
+        sections = await page.evaluate("""
+            () => Array.from(document.querySelectorAll('h2'))
+                .map(h => h.textContent.trim())
+        """)
+        
+        # Get images
+        images = await page.evaluate("""
+            () => Array.from(document.querySelectorAll('img'))
+                .filter(img => img.src && img.naturalWidth > 0)
+                .map(img => ({src: img.src, loaded: img.complete}))
+        """)
+        
+        await page.screenshot(path="debug.png")
+        await browser.close()
 ```
 
-Estructura típica:
-- `name` → Nombre del restaurante
-- `address` → Dirección completa
-- `aggregateRating` → Rating y reviews
-- `hasMenu.hasMenuSection` → Secciones del menú (Pizza, Entradas, etc.)
-- `hasMenuSection[].hasMenuItem` → Items individuales
-- `image` → URLs de imágenes del restaurante
-
-### Rappi
-
-Rappi usa Angular/React, puede que no tenga JSON-LD visible. Probar primero:
-
-```bash
-curl -sL "URL" | grep -oP 'application/ld\+json">[^<]+'
+#### Deep Scroll (Bounce Technique)
+```python
+async def deep_scroll(page, bounces=15):
+    total_height = await page.evaluate("document.body.scrollHeight")
+    
+    for i in range(bounces):
+        for y in range(0, total_height, 300):
+            await page.evaluate(f"window.scrollTo(0, {y})")
+            await page.wait_for_timeout(150)
+        
+        await page.evaluate("window.scrollTo(0, 0)")
+        await page.wait_for_timeout(500)
 ```
 
-Si no hay resultados, la plataforma no expone datos estructurados en HTML.
+#### Extract All Images
+```python
+images = await page.evaluate("""
+    () => [...new Set(
+        Array.from(document.querySelectorAll('img'))
+        .filter(img => img.src && img.naturalWidth > 0)
+        .map(img => img.src)
+    )]
+""")
+```
 
-## Extracción de Imágenes
+#### Download with Requests
+```python
+import requests
+
+for i, url in enumerate(images):
+    ext = url.split('.')[-1].split('?')[0][:3]
+    if ext not in ['jpg', 'png']:
+        ext = 'jpg'
+    
+    r = requests.get(url, timeout=15, headers={'User-Agent': 'Mozilla/5.0'})
+    if r.status_code == 200 and len(r.content) > 3000:
+        with open(f"output/img_{i:03d}.{ext}", 'wb') as f:
+            f.write(r.content)
+```
+
+## Image Deduplication Logic
 
 ```python
-import re
+# Remove duplicates by comparing file sizes
+import os
 
-# URLs en JSON-LD pueden tener unicode escaping
-images = data.get('image', [])
-clean_urls = [url.replace('\\/', '/') for url in images]
+files = os.listdir('images/')
+size_map = {}
 
-# Descargar con requests
-import requests
-for i, url in enumerate(clean_urls):
-    r = requests.get(url)
-    ext = url.split('.')[-1].split('?')[0][:3]
-    with open(f'image_{i}.{ext}', 'wb') as f:
-        f.write(r.content)
+for f in files:
+    size = os.path.getsize(f"images/{f}")
+    if size not in size_map:
+        size_map[size] = f
+    else:
+        os.remove(f"images/{f}")  # Duplicate
 ```
 
-## Troubleshooting
+## Filter Real Food Photos
 
-### Problema: "Empty response"
-- Verificar que la URL es correcta
-- Intentar con User-Agent diferente
-- Puede que la página requiere JavaScript (usar método alternativo)
+```python
+# Real food photos are >30KB
+# Icons/logos are <10KB
 
-### Problema: "JSON decode error"
-- Los caracteres unicode pueden estar escapados (\u002F)
-- Limpiar con: `sed 's/\\ / /g' data.json`
-
-### Problema: Solo 1 imagen
-- El sitio puede tener múltiples imágenes en diferentes formatos
-- Revisar `image` puede ser string único o array
-
-## Ejemplo de Output
-
+for f in files:
+    size = os.path.getsize(f"images/{f}")
+    if size > 30000:
+        # It's a real food photo
 ```
-# Woods Pizza a la Leña Cartago
 
-**Dirección:** 219 Carmen, Cartago, Costa Rica
-**Teléfono:** +506 8391 6946
-**Rating:** ⭐ 4.6/5 (1000 reviews)
+## Full Page Screenshot
 
-## Pizza (29 items)
-
-### Pizza Pepperoni
-_Pepperoni. Tamaño mediano de 8 porciones._
-**Precio:** ₡9,790
-...
+```python
+# Full page can be 12,000+ pixels tall
+await page.screenshot(path="full_menu.png", full_page=True)
 ```
+
+## JSON Structure for Products
+
+```json
+{
+  "restaurante": "Woods Pizza a la Leña Cartago",
+  "ubicacion": "219 Carmen, Cartago",
+  "telefono": "+506 8391 6946",
+  "rating": 4.6,
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pizza Pepperoni",
+      "descripcion": "Pepperoni. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "precio": 9790.00,
+      "moneda": "CRC"
+    }
+  ]
+}
+```
+
+## Troubleshooting Matrix
+
+| Symptom | Cause | Fix |
+|---------|-------|-----|
+| Page loads but no content | JS not executed | Add wait_for_timeout(5000) |
+| 0 images found | No lazy load | Use deep scroll (bounce) |
+| Only section headers | Anti-bot blocking | Use mobile viewport |
+| Images too small | Icons not photos | Filter by size >30KB |
+| Duplicates | Same image in multiple sections | Deduplicate by file size |
+
+## Uber Eats URL Patterns
+
+- Store: `https://www.ubereats.com/cr/store/{slug}/{storeId}`
+- Data: JSON-LD in `<script type="application/ld+json">`
+- Images: `https://tb-static.uber.com/prod/image-proc/processed_images/{hash}/{filename}`
