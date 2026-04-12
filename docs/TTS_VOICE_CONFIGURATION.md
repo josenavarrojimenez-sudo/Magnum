@@ -20,7 +20,7 @@ Actualmente estás usando la configuración **GLOBAL** de OpenClaw en `/root/.op
       "providers": {
         "elevenlabs": {
           "apiKey": "aa30f405ec0c1ce39707fbf76436b6c932474c6a5985a5693d363e87c1a899f0",
-          "voiceId": "iwd8AcSi0Je5Quc56ezK",
+          "voiceId": "aviXFY7Zd7b9DnCUwaCh",
           "modelId": "eleven_v3",
           "languageCode": "es"
         }
@@ -91,13 +91,13 @@ Modificar `/root/.openclaw/openclaw.json` para agregar providers específicos:
       "providers": {
         "elevenlabs-cornelio": {
           "apiKey": "...",
-          "voiceId": "iwd8AcSi0Je5Quc56ezK",
+          "voiceId": "aviXFY7Zd7b9DnCUwaCh",  // ← Voz de Magnum
           "modelId": "eleven_v3",
           "languageCode": "es"
         },
         "elevenlabs-magnum": {
           "apiKey": "...",
-          "voiceId": "NUEVO_VOICE_ID",
+          "voiceId": "aviXFY7Zd7b9DnCUwaCh",  // Voz de Magnum
           "modelId": "eleven_v3",
           "languageCode": "es"
         }

@@ -106,15 +106,17 @@ Magnum: Listo, esperando... (3/3) ← AQUÍ PARO
 ### TTS (Text-to-Speech) ✅ ACTIVO
 - **Provider**: ElevenLabs
 - **Modelo**: `eleven_multilingual_v2`
-- **Voice ID**: `iwd8AcSi0Je5Quc56ezK`
+- **Voice ID**: `aviXFY7Zd7b9DnCUwaCh`
 - **Formato**: `opus_48000_128` (OGG Opus - Nativo WhatsApp/Telegram)
 - **Idioma**: Español (`es`)
 - **Auto-TTS**: `always` (siempre activo)
 - **Voice Settings**:
-  - stability: 0.5
-  - similarityBoost: 0.75
+  - stability: 0.35 (más expresivo/emocional)
+  - similarityBoost: 0.75 (fidelidad natural)
+  - style: 0.5 (exageración emocional)
   - speed: 1.0
   - useSpeakerBoost: true
+- **Boost Volumen**: 4.0x (FFmpeg - ruido controlado)
 
 ### STT (Speech-to-Text)
 - **Primary**: ElevenLabs Scribe V2 (español)

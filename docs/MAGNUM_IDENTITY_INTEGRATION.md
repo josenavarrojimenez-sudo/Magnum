@@ -19,7 +19,13 @@ Para garantizar independencia y control total, se desarrolló un flujo nativo qu
 ### Componentes:
 1. **Workspace Seguro:** Operación limitada a `/root/.openclaw/workspace-magnum/`.
 2. **Speech-to-Text (STT):** Integración directa con **ElevenLabs Scribe V2** mediante el script `scripts/audio/transcribir_audio_elevenlabs.py`.
-3. **Text-to-Speech (TTS):** Generación de voz nativa con el Voice ID de Magnum (`aviXFY7Zd7b9DnCUwaCh`) vía API directa, permitiendo el ajuste de parámetros como estabilidad y claridad sin afectar a otros agentes.
+3. **Text-to-Speech (TTS):** Generación de voz nativa con el Voice ID de Magnum (`aviXFY7Zd7b9DnCUwaCh`) vía API directa.
+   - **Voice Settings:**
+     - stability: 0.35 (más expresivo/emocional)
+     - similarity_boost: 0.75 (fidelidad natural)
+     - style: 0.5 (exageración emocional)
+     - use_speaker_boost: true
+   - **Boost Volumen:** 4.0x con FFmpeg (ruido controlado)
 4. **Entrega Directa (Fail-safe):** Implementación de envío directo vía API de Telegram con `curl` para saltar bloqueos del Gateway de medios.
 
 ## 4. Archivos Clave en Workspace

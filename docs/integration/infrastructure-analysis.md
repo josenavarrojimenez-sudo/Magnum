@@ -306,7 +306,7 @@ Cornelio configuró **cross-agent QMD memory search** para que los agentes pueda
       providers: {
         elevenlabs: {
           apiKey: "aa30f405ec0c1ce39707fbf76436b6c932474c6a5985a5693d363e87c1a899f0",
-          voiceId: "iwd8AcSi0Je5Quc56ezK",  // ← Mi voz personal
+          voiceId: "aviXFY7Zd7b9DnCUwaCh",  // ← Voz de Magnum
           modelId: "eleven_v3",
           languageCode: "es"
         }
@@ -471,7 +471,7 @@ Cornelio también configuró **workers autónomos** en Mission Control:
 | **Tools** | +sessions_yield | -sessions_yield |
 | **Personalidad** | Estratégico | Operativo |
 | **Vibe** | Decisor | Ejecutor |
-| **Voz** | - | iwd8AcSi0Je5Quc56ezK |
+| **Voz** | - | aviXFY7Zd7b9DnCUwaCh |
 | **Sandbox** | off | off |
 | **Reporta a** | Jose | Cornelio |
 
