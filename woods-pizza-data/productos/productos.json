@@ -1,0 +1,784 @@
+{
+  "restaurante": "Woods Pizza a la Leña Cartago",
+  "ubicacion": "219 Carmen, Cartago, Costa Rica",
+  "telefono": "+506 8391 6946",
+  "rating": 4.6,
+  "reviews": 1000,
+  "total_items": 86,
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pizza Pepperoni",
+      "descripcion": "Pepperoni. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9790.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza Romana",
+      "descripcion": "Jamón cocido y hongos. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11220.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza Cuatro Estaciones",
+      "descripcion": "Olivas negras, jamón cocido, alcachofas y hongos frescos. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9460.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 4,
+      "nombre": "Pizza Cuatro Quesos",
+      "descripcion": "Mozzarella, ricotta, gorgonzola y parmigiano. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 5,
+      "nombre": "Pizza Prosciutto Cotto",
+      "descripcion": "Jamón cocido. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 6,
+      "nombre": "Pizza Capricciosa",
+      "descripcion": "Jamón cocido, hongos y calcachofas. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11440.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 7,
+      "nombre": "Pizza de Vegetales",
+      "descripcion": "Zucchini, berenjena, hongos, cebolla, chile morrón y olivas. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 8800.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 8,
+      "nombre": "Pizza Funghi",
+      "descripcion": "Hongos mixtos. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11440.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 9,
+      "nombre": "Pizza Scamorza &amp; Salsiccia",
+      "descripcion": "Queso ahumado y salsiccia italiana. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10780.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 10,
+      "nombre": "Pizza Funghi &amp; Salsiccia",
+      "descripcion": "Hongos frescos y salsiccia italiana. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 11,
+      "nombre": "Pizza Salsiccia Picante",
+      "descripcion": "Salsiccia italiana picante. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9240.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 12,
+      "nombre": "Pizza Greca",
+      "descripcion": "Queso de cabra y espinacas. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 8580.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 13,
+      "nombre": "Pizza Margarita",
+      "descripcion": "Tomate y albahaca. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 8580.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 14,
+      "nombre": "Pizza Hawaiana",
+      "descripcion": "Jamón cocido y piña caramelizada. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10890.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 15,
+      "nombre": "Pizza Prosciutto &amp; Parmigiano",
+      "descripcion": "Prosciutto crudo, arúgula fresca y parmigiano. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 14190.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 16,
+      "nombre": "Pizza Gamberi",
+      "descripcion": "Camarones y albahaca. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10560.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 17,
+      "nombre": "Pizza Bufalina",
+      "descripcion": "Trocitos de carne de búfalo marinados con hierbas, hongos frescos y cebolla caramelizada. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10890.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 18,
+      "nombre": "Pizza Woods",
+      "descripcion": "Pizza blanca con salmón ahumado, alcaparras, cebolla morada, mozzarella fresca y stracchino. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 14500.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 19,
+      "nombre": "Pizza Gaucha",
+      "descripcion": "Chorizo de manzana verde-jengibre (embutidos artesanales El Gaucho ®), cuadritos de tomate, cebolla morada; acompañado de rodajas de limón mesino y chimichurri de la casa. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9680.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 20,
+      "nombre": "Pizza Pasticciona",
+      "descripcion": "Salsiccia, prosciutto cotto, chile morrón, hongos frescos y cebolla morada. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11440.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 21,
+      "nombre": "Pizza Frutti Di Mare",
+      "descripcion": "Aros de calamar, pulpo, camarones y mejillones. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11880.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 22,
+      "nombre": "Pizza Alla Succa",
+      "descripcion": "Crema de ayote, papa, chile mundial, cebolla, tomate en cuadritos, espinaca, y queso caprino. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9350.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 23,
+      "nombre": "Pizza de Salame",
+      "descripcion": "Salame italiano. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 24,
+      "nombre": "Pizza Di Manso",
+      "descripcion": "Lomito, chile mundial, espárragos frescos, salsa demiglace y escabeche de cebolla morada. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 13970.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 25,
+      "nombre": "Pizza Napoletana",
+      "descripcion": "Alcaparras y anchoas. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 9020.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 26,
+      "nombre": "Pizza de Salame Picante",
+      "descripcion": "Salame italiano picante. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 27,
+      "nombre": "Pizza Prosciutto",
+      "descripcion": "Prosciutto crudo. Tamaño mediano de 8 porciones.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 11660.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 28,
+      "nombre": "Pizza por mitades",
+      "descripcion": "Puedes armar tus pizzas por mitades, seleccionando tus dos favoritas.",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 0.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 29,
+      "nombre": "PIZZA BIANCHETTA",
+      "descripcion": "PIZZA A BASE DE SALSA BLANCA DE AJO Y PARMIGIANO, QUESO MOZARELLA, HONGOS FRESCOS, TOCINETA CROCANTE, ESPINACA PICADA FINA Y MIEL DE AGAVE",
+      "categoria": "Pizza",
+      "categoria_id": "pizza",
+      "precio": 13200.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 30,
+      "nombre": "Antipasto Woods",
+      "descripcion": "Combinación de fiambres y quesos, acampañados de hummus, aceitunas kalamatas y focaccia rosmarino.",
+      "categoria": "Antipastos",
+      "categoria_id": "antipastos",
+      "precio": 27720.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 31,
+      "nombre": "Antipasto Hummus",
+      "descripcion": "Crema de puré de garbanzos cocidos.",
+      "categoria": "Antipastos",
+      "categoria_id": "antipastos",
+      "precio": 6600.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 32,
+      "nombre": "Carpaccio de Salmón Fresco",
+      "descripcion": "Salmón, alcaparras, cebolla morada y arúgula.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 9350.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 33,
+      "nombre": "Carpaccio de Res",
+      "descripcion": "Lomito de res, hongos y arúgula.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 9240.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 34,
+      "nombre": "Carpaccio Rolatin de Salmón Ahumado",
+      "descripcion": "Relleno de capocollo, arúgula, mozzarella fresca y  chile  morrón.  Acompañado  de cebolla morada, alcaparras y olivas negras.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 18590.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 35,
+      "nombre": "Carpaccio de Salmón Ahumado",
+      "descripcion": "Salmón ahumado, cebolla morada, alcaparras y arúgula.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 12430.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 36,
+      "nombre": "Carpaccio de Atún",
+      "descripcion": "Atún, alcaparras, cebolla morada y arúgula.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 8640.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 37,
+      "nombre": "Carpaccio Woods",
+      "descripcion": "Búfalo, hongos y arúgula.",
+      "categoria": "Carpaccios",
+      "categoria_id": "carpaccios",
+      "precio": 8690.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 38,
+      "nombre": "Ensalada Caprese",
+      "descripcion": "Mozzarella fresca, tomate, aceitunas, alcaparras y pesto.",
+      "categoria": "Ensaladas",
+      "categoria_id": "ensaladas",
+      "precio": 7040.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 39,
+      "nombre": "Ensalada Greca",
+      "descripcion": "Lechuga, cebolla morada, aceitunas, pepino, tomate, queso feta y orégano.",
+      "categoria": "Ensaladas",
+      "categoria_id": "ensaladas",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 40,
+      "nombre": "Ensalada Verde",
+      "descripcion": "Lechuga, pepino, tomate, zanahoria, y cebolla.",
+      "categoria": "Ensaladas",
+      "categoria_id": "ensaladas",
+      "precio": 5280.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 41,
+      "nombre": "Ensalada Woods",
+      "descripcion": "Atún, lechuga, hongos frescos, zanahoria y tomate.",
+      "categoria": "Ensaladas",
+      "categoria_id": "ensaladas",
+      "precio": 13090.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 42,
+      "nombre": "Ensalada Cesar con Pollo",
+      "descripcion": "Lechuga romana, pollo y parmigiano.",
+      "categoria": "Ensaladas",
+      "categoria_id": "ensaladas",
+      "precio": 10780.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 43,
+      "nombre": "Panini Woods",
+      "descripcion": "Salmón ahumado, stracchino, alcaparras y cebolla morada.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 10780.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 44,
+      "nombre": "Panini de Pollo",
+      "descripcion": "Mozzarella, lechuga, hongos, tomate y pollo.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 10120.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 45,
+      "nombre": "Panini Prosciutto Cotto",
+      "descripcion": "Mozzarella, lechuga, tomate, jamón cocido y hongos.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 11110.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 46,
+      "nombre": "Panini Prosciutto Crudo",
+      "descripcion": "Mozzarella fresca, tomate, prosciutto crudo y fresco.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 11880.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 47,
+      "nombre": "Panini Caprese",
+      "descripcion": "Mozzarella fresca, tomate y pesto.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 8580.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 48,
+      "nombre": "Panini de Vegetales",
+      "descripcion": "Mozzarella, arúgula, tomate, hongos, chile, cebolla y oliva.",
+      "categoria": "Panini",
+      "categoria_id": "panini",
+      "precio": 8360.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 49,
+      "nombre": "Calzone Romano",
+      "descripcion": "Jamón cocido y hongos.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 9900.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 50,
+      "nombre": "Calzone Pomodoro",
+      "descripcion": "Mozzarella y albahaca.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 7480.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 51,
+      "nombre": "Calzone Funghi",
+      "descripcion": "Hongos mixtos.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 10780.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 52,
+      "nombre": "Calzone Caprese",
+      "descripcion": "Mozzarella fresca, tomate en trozos y pesto.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 9680.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 53,
+      "nombre": "Calzone Primavera",
+      "descripcion": "Vegetales mixtos.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 8800.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 54,
+      "nombre": "Calzone Woods",
+      "descripcion": "Zucchini, hongos, chile morrón y olivas.",
+      "categoria": "Calzone",
+      "categoria_id": "calzone",
+      "precio": 8580.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 55,
+      "nombre": "Stromboli de Carne",
+      "descripcion": "Rollo de pizza relleno de pepperoni, salsiccia italiana, capocollo y queso provolone, acompañado con salsa pomodoro de la casa.",
+      "categoria": "Stromboli",
+      "categoria_id": "stromboli",
+      "precio": 10450.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 56,
+      "nombre": "Stromboli Vegetariano",
+      "descripcion": "Rollo de pizza relleno de chile morrón, cebolla morada, hongos, albahaca, queso caprino y queso provolone, acompañado con salsa pomodoro de la casa.",
+      "categoria": "Stromboli",
+      "categoria_id": "stromboli",
+      "precio": 8250.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 57,
+      "nombre": "Focaccia Rosmarino",
+      "descripcion": "Oliva, ajo y romero.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 3850.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 58,
+      "nombre": "Focaccia Funghi",
+      "descripcion": "Hongos mixtos.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 7920.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 59,
+      "nombre": "Woodsticks",
+      "descripcion": "Palitos de pan horneado con queso, acompañado de salsa pomodoro de la casa.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 4620.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 60,
+      "nombre": "Focaccia Caprese",
+      "descripcion": "Mozzarella fresca, tomate, albahaca y pesto.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 9680.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 61,
+      "nombre": "Focaccia Woods",
+      "descripcion": "Queso gorgonzola, cebolla morada y albahaca.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 5280.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 62,
+      "nombre": "Focaccia Calabra",
+      "descripcion": "Salsiccia picante, arúgula y parmigiano.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 7480.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 63,
+      "nombre": "Focaccia Panzanella",
+      "descripcion": "Mozzarella fresca, tomate en cuadritos y albahaca.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 8360.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 64,
+      "nombre": "Focaccia Pesto",
+      "descripcion": "Pesto genovese (salsa de albahaca).",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 5280.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 65,
+      "nombre": "Fogaucha",
+      "descripcion": "Focaccia rellena de queso mozzarella, con chorizo, cebolla morada y albahaca. Acompañada de salsa pomodoro especial.",
+      "categoria": "Focaccia",
+      "categoria_id": "focaccia",
+      "precio": 9680.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 66,
+      "nombre": "Wrap Woods",
+      "descripcion": "Hummus, lechuga, chile, cebolla, hongos y tomate.",
+      "categoria": "Wraps",
+      "categoria_id": "wraps",
+      "precio": 7150.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 67,
+      "nombre": "Wrap de Pollo",
+      "descripcion": "Mozzarella, pollo, tomate y pesto.",
+      "categoria": "Wraps",
+      "categoria_id": "wraps",
+      "precio": 10560.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 68,
+      "nombre": "Wrap de Atún",
+      "descripcion": "Mozzarella, lechuga, tomate, zanahoria, pesto y atún.",
+      "categoria": "Wraps",
+      "categoria_id": "wraps",
+      "precio": 12870.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 69,
+      "nombre": "Wrap Caprese",
+      "descripcion": "Mozzarella fresca, tomate y pesto.",
+      "categoria": "Wraps",
+      "categoria_id": "wraps",
+      "precio": 10560.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 70,
+      "nombre": "Tiramizú",
+      "descripcion": "Capas de bizcocho humedecido en café y crema de mascarpone, espolvoreadas con cacao.",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 5830.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 71,
+      "nombre": "Panna Cotta",
+      "descripcion": "Flan italiano con coulis (fresa y mora).",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 4290.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 72,
+      "nombre": "Focaccia Dolce",
+      "descripcion": "Focaccia con nutella y fresas.",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 4620.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 73,
+      "nombre": "Salame de Chocolate",
+      "descripcion": "Acompañado con helado.",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 4620.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 74,
+      "nombre": "Semifredo",
+      "descripcion": "Postre semicongelado, suave y cremoso.",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 3960.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 75,
+      "nombre": "Copa de Helado Casero",
+      "descripcion": "Helado casero cremoso servido en copa.",
+      "categoria": "Postres",
+      "categoria_id": "postres",
+      "precio": 3960.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 76,
+      "nombre": "Sangría 350ml",
+      "descripcion": "350 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 4400.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 77,
+      "nombre": "Gaseosas",
+      "descripcion": "600 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 1980.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 78,
+      "nombre": "Refrescos Naturales",
+      "descripcion": "Refrescos 100% naturales. 350 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 2200.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 79,
+      "nombre": "Tropicales",
+      "descripcion": "350 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 1650.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 80,
+      "nombre": "Té frío Woods",
+      "descripcion": "",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 1650.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 81,
+      "nombre": "Kombucha",
+      "descripcion": "Bebida probiótica gaseosa sin alcohol. 350 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 3080.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 82,
+      "nombre": "Té frío de la casa",
+      "descripcion": "350 ml.",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 1650.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 83,
+      "nombre": "Sangría 1.5 L",
+      "descripcion": "Sangría 1.5 litros",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 15400.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 84,
+      "nombre": "San Peregrino",
+      "descripcion": "",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 3300.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 85,
+      "nombre": "Salt Traders",
+      "descripcion": "",
+      "categoria": "Bebidas",
+      "categoria_id": "bebidas",
+      "precio": 2750.0,
+      "moneda": "CRC"
+    },
+    {
+      "id": 86,
+      "nombre": "Cerveceria Eremita",
+      "descripcion": "",
+      "categoria": "Bebidas alcohólicas",
+      "categoria_id": "bebidas-alcoholicas",
+      "precio": 3300.0,
+      "moneda": "CRC"
+    }
+  ]
+}
