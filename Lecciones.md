@@ -161,3 +161,36 @@ Qué se logró.
 ---
 
 _Ultima actualización: 2026-04-12_
+---
+
+## LECCIÓN 7: Gestión Segura de Tokens con 1Password (2026-04-12)
+
+### Problema
+Los tokens y claves de API se estaban guardando en archivos del workspace, lo cual presentaba riesgo de exposición en GitHub (el push del `.git-credentials` fue bloqueado).
+
+### Solución Implementada
+
+1. **Jose creó boveda "Cornelio" en 1Password**
+2. **Token guardado en `/root/.openclaw/workspace-magnum/.secrets/`**
+   - Directoro con permisos `700` (solo Magnum puede leer)
+   - Archivos con permisos `600`
+   - `.secrets/` agregado a `.gitignore`
+
+3. **Ubicación de tokens seguros:**
+   ```
+   /root/.openclaw/workspace-magnum/.secrets/
+   ├── 1password-config.json    # Metadata
+   └── op_token.txt            # Token de 1Password Connect API
+   ```
+
+### Regla de Seguridad
+⚠️ NUNCA guardar tokens en archivos que puedan ser pusheados a GitHub.
+⚠️ Usar siempre la carpeta `.secrets/` con permisos restrictivos.
+
+### Archivos Involucrados
+- `.gitignore` - Actualizado para excluir `.secrets/`
+- `.secrets/` - Carpeta segura para tokens
+
+---
+
+_Ultima actualización: 2026-04-12_
