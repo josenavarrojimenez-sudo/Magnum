@@ -1,0 +1,1017 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/cr/store/woods-pizza-a-la-lena-cartago/Pa5077jjWT-XgqODtJOO8Q",
+  "name": "Woods Pizza a la Leña Cartago",
+  "servesCuisine": [
+    "Pizza"
+  ],
+  "priceRange": "€",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/ffd640b0f9bc72838f2ebbee501a5d4b.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/820883a48567670acbd720bc76391291.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/1153e79d90aa7e9dd2351e1aa8dc4e16.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/1651207c9cb2a7942b37b3f3e4a0b899.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/445a4b2618e10f7db95d4f17a85b117d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/4755d683b3fb3ad28b7cfb2ecc1ceed1/c73ecc27d2a9eaa735b1ee95304ba588.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/cr/store/woods-pizza-a-la-lena-cartago/Pa5077jjWT-XgqODtJOO8Q?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "Español",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Carmen",
+    "addressRegion": "CR-C",
+    "postalCode": "30103",
+    "addressCountry": "CR",
+    "streetAddress": "219 Carmen Cartago Cartago"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 9.8786143,
+    "longitude": -83.9091188
+  },
+  "telephone": "+50683916946",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 1000
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "12:00",
+      "closes": "21:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "opens": "16:00",
+      "closes": "22:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "12:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "Pizza",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Pepperoni",
+            "description": "Pepperoni. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9790.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Romana",
+            "description": "Jamón cocido y hongos. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11220.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Cuatro Estaciones",
+            "description": "Olivas negras, jamón cocido, alcachofas y hongos frescos. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9460.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Cuatro Quesos",
+            "description": "Mozzarella, ricotta, gorgonzola y parmigiano. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Prosciutto Cotto",
+            "description": "Jamón cocido. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Capricciosa",
+            "description": "Jamón cocido, hongos y calcachofas. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11440.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza de Vegetales",
+            "description": "Zucchini, berenjena, hongos, cebolla, chile morrón y olivas. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Funghi",
+            "description": "Hongos mixtos. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11440.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Scamorza &amp; Salsiccia",
+            "description": "Queso ahumado y salsiccia italiana. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10780.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Funghi &amp; Salsiccia",
+            "description": "Hongos frescos y salsiccia italiana. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Salsiccia Picante",
+            "description": "Salsiccia italiana picante. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9240.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Greca",
+            "description": "Queso de cabra y espinacas. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8580.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Margarita",
+            "description": "Tomate y albahaca. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8580.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Hawaiana",
+            "description": "Jamón cocido y piña caramelizada. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10890.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Prosciutto &amp; Parmigiano",
+            "description": "Prosciutto crudo, arúgula fresca y parmigiano. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14190.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Gamberi",
+            "description": "Camarones y albahaca. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10560.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Bufalina",
+            "description": "Trocitos de carne de búfalo marinados con hierbas, hongos frescos y cebolla caramelizada. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10890.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Woods",
+            "description": "Pizza blanca con salmón ahumado, alcaparras, cebolla morada, mozzarella fresca y stracchino. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Gaucha",
+            "description": "Chorizo de manzana verde-jengibre (embutidos artesanales El Gaucho ®), cuadritos de tomate, cebolla morada; acompañado de rodajas de limón mesino y chimichurri de la casa. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9680.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Pasticciona",
+            "description": "Salsiccia, prosciutto cotto, chile morrón, hongos frescos y cebolla morada. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11440.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Frutti Di Mare",
+            "description": "Aros de calamar, pulpo, camarones y mejillones. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11880.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Alla Succa",
+            "description": "Crema de ayote, papa, chile mundial, cebolla, tomate en cuadritos, espinaca, y queso caprino. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza de Salame",
+            "description": "Salame italiano. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Di Manso",
+            "description": "Lomito, chile mundial, espárragos frescos, salsa demiglace y escabeche de cebolla morada. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13970.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Napoletana",
+            "description": "Alcaparras y anchoas. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9020.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza de Salame Picante",
+            "description": "Salame italiano picante. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Prosciutto",
+            "description": "Prosciutto crudo. Tamaño mediano de 8 porciones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11660.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza por mitades",
+            "description": "Puedes armar tus pizzas por mitades, seleccionando tus dos favoritas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PIZZA BIANCHETTA",
+            "description": "PIZZA A BASE DE SALSA BLANCA DE AJO Y PARMIGIANO, QUESO MOZARELLA, HONGOS FRESCOS, TOCINETA CROCANTE, ESPINACA PICADA FINA Y MIEL DE AGAVE",
+            "offers": {
+              "@type": "Offer",
+              "price": "13200.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Antipastos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Antipasto Woods",
+            "description": "Combinación de fiambres y quesos, acampañados de hummus, aceitunas kalamatas y focaccia rosmarino.",
+            "offers": {
+              "@type": "Offer",
+              "price": "27720.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Antipasto Hummus",
+            "description": "Crema de puré de garbanzos cocidos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6600.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Carpaccios",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio de Salmón Fresco",
+            "description": "Salmón, alcaparras, cebolla morada y arúgula.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio de Res",
+            "description": "Lomito de res, hongos y arúgula.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9240.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio Rolatin de Salmón Ahumado",
+            "description": "Relleno de capocollo, arúgula, mozzarella fresca y  chile  morrón.  Acompañado  de cebolla morada, alcaparras y olivas negras.",
+            "offers": {
+              "@type": "Offer",
+              "price": "18590.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio de Salmón Ahumado",
+            "description": "Salmón ahumado, cebolla morada, alcaparras y arúgula.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12430.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio de Atún",
+            "description": "Atún, alcaparras, cebolla morada y arúgula.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8640.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carpaccio Woods",
+            "description": "Búfalo, hongos y arúgula.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8690.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Ensaladas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada Caprese",
+            "description": "Mozzarella fresca, tomate, aceitunas, alcaparras y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7040.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada Greca",
+            "description": "Lechuga, cebolla morada, aceitunas, pepino, tomate, queso feta y orégano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada Verde",
+            "description": "Lechuga, pepino, tomate, zanahoria, y cebolla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5280.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada Woods",
+            "description": "Atún, lechuga, hongos frescos, zanahoria y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13090.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada Cesar con Pollo",
+            "description": "Lechuga romana, pollo y parmigiano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10780.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Panini",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Panini Woods",
+            "description": "Salmón ahumado, stracchino, alcaparras y cebolla morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10780.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panini de Pollo",
+            "description": "Mozzarella, lechuga, hongos, tomate y pollo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10120.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panini Prosciutto Cotto",
+            "description": "Mozzarella, lechuga, tomate, jamón cocido y hongos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11110.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panini Prosciutto Crudo",
+            "description": "Mozzarella fresca, tomate, prosciutto crudo y fresco.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11880.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panini Caprese",
+            "description": "Mozzarella fresca, tomate y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8580.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panini de Vegetales",
+            "description": "Mozzarella, arúgula, tomate, hongos, chile, cebolla y oliva.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8360.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Calzone",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Romano",
+            "description": "Jamón cocido y hongos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Pomodoro",
+            "description": "Mozzarella y albahaca.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7480.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Funghi",
+            "description": "Hongos mixtos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10780.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Caprese",
+            "description": "Mozzarella fresca, tomate en trozos y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9680.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Primavera",
+            "description": "Vegetales mixtos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Calzone Woods",
+            "description": "Zucchini, hongos, chile morrón y olivas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8580.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Stromboli",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Stromboli de Carne",
+            "description": "Rollo de pizza relleno de pepperoni, salsiccia italiana, capocollo y queso provolone, acompañado con salsa pomodoro de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10450.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Stromboli Vegetariano",
+            "description": "Rollo de pizza relleno de chile morrón, cebolla morada, hongos, albahaca, queso caprino y queso provolone, acompañado con salsa pomodoro de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8250.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Focaccia",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Rosmarino",
+            "description": "Oliva, ajo y romero.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Funghi",
+            "description": "Hongos mixtos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7920.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Woodsticks",
+            "description": "Palitos de pan horneado con queso, acompañado de salsa pomodoro de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4620.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Caprese",
+            "description": "Mozzarella fresca, tomate, albahaca y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9680.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Woods",
+            "description": "Queso gorgonzola, cebolla morada y albahaca.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5280.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Calabra",
+            "description": "Salsiccia picante, arúgula y parmigiano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7480.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Panzanella",
+            "description": "Mozzarella fresca, tomate en cuadritos y albahaca.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8360.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Pesto",
+            "description": "Pesto genovese (salsa de albahaca).",
+            "offers": {
+              "@type": "Offer",
+              "price": "5280.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fogaucha",
+            "description": "Focaccia rellena de queso mozzarella, con chorizo, cebolla morada y albahaca. Acompañada de salsa pomodoro especial.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9680.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Woods",
+            "description": "Hummus, lechuga, chile, cebolla, hongos y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap de Pollo",
+            "description": "Mozzarella, pollo, tomate y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10560.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap de Atún",
+            "description": "Mozzarella, lechuga, tomate, zanahoria, pesto y atún.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12870.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Caprese",
+            "description": "Mozzarella fresca, tomate y pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10560.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Postres",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tiramizú",
+            "description": "Capas de bizcocho humedecido en café y crema de mascarpone, espolvoreadas con cacao.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5830.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panna Cotta",
+            "description": "Flan italiano con coulis (fresa y mora).",
+            "offers": {
+              "@type": "Offer",
+              "price": "4290.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Focaccia Dolce",
+            "description": "Focaccia con nutella y fresas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4620.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salame de Chocolate",
+            "description": "Acompañado con helado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4620.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Semifredo",
+            "description": "Postre semicongelado, suave y cremoso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3960.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Copa de Helado Casero",
+            "description": "Helado casero cremoso servido en copa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3960.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Bebidas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sangría 350ml",
+            "description": "350 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gaseosas",
+            "description": "600 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1980.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Refrescos Naturales",
+            "description": "Refrescos 100% naturales. 350 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tropicales",
+            "description": "350 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1650.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Té frío Woods",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1650.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kombucha",
+            "description": "Bebida probiótica gaseosa sin alcohol. 350 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3080.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Té frío de la casa",
+            "description": "350 ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1650.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sangría 1.5 L",
+            "description": "Sangría 1.5 litros",
+            "offers": {
+              "@type": "Offer",
+              "price": "15400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Peregrino",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salt Traders",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2750.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Bebidas alcohólicas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cerveceria Eremita",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
