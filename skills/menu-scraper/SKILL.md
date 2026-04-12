@@ -1,3 +1,8 @@
+---
+name: uber-eats-scraper
+description: Skill completo para hacer scraping de menús de Uber Eats usando Playwright. Captura productos, precios, categorías, imágenes y screenshots de cualquier restaurant en Uber Eats. Incluye técnicas de bypass anti-bot, deep scroll, deduplicación de imágenes y parsing de JSON-LD. Se activa con frases como scrapear Uber Eats, capturar menú de restaurante, extraer imágenes de delivery, o hacer scraping de comida.
+---
+
 # UBER EATS SCRAPER - Complete Toolkit
 
 ## Overview
@@ -106,3 +111,5 @@ python3 scripts/scrape_uber_eats_complete.py "URL_UBER_EATS" ./output
 ## API Keys Necesarias
 
 Ninguna - solo curl y requests (para descarga de imágenes).
+
+Para detalles técnicos completos ver [references/references.md](references/references.md)
