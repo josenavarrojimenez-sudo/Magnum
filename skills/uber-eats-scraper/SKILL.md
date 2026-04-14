@@ -1,78 +1,55 @@
----
-name: uber-eats-scraper
-description: Skill para scraping de menús de Uber Eats usando Playwright. Captura productos, precios, categorías, imágenes y screenshots de cualquier restaurant en Uber Eats. Incluye técnicas de bypass anti-bot usando mobile viewport y deep scroll. Se activa con frases como scrapear Uber Eats, capturar menú de restaurante, extraer imágenes de delivery, hacer scraping de comida, o descargar menú completo de restaurante online.
----
-
-# SKILL: UBER EATS SCRAPER
+# Skill: Uber Eats Scraper (Melatte Café)
 
 ## Descripción
-
-Este skill permite hacer scraping completo de menús de Uber Eats con renderizado JavaScript. Captura:
-- Productos (nombre, descripción, precio)
-- Categorías
-- Imágenes de platos
-- Screenshots del menú
+Skill para hacer scraping de menús de Uber Eats usando Playwright. Diseñado para evadir detección de CAPTCHA y anti-bot.
 
 ## Uso
-
 ```bash
-# Installation (solo una vez)
-npm install -g playwright
-npx playwright install chromium
-
-# Scraping
-python3 scripts/scrape_uber_eats_complete.py "URL_RESTAURANTE" "./output"
+cd /root/.openclaw/workspace-prolix/melatte-cafe
+./run-stealth.sh
 ```
 
-## Técnicas de Bypass Anti-Bot
+## Archivos Generados
+- `menu.json` - Menú extraído en formato JSON
+- `menu-complete.json` - Menú con datos completos (incluyendo items inferidos)
+- `reporte.json` - Reporte con estadísticas
+- `screenshot-stealth.png` - Captura de pantalla del restaurante
+- `debug-page.html` - HTML de depuración
+- `imagenes/` - Imágenes descargadas
 
-### 1. Mobile Viewport
-```python
-context = await browser.new_context(
-    viewport={"width": 412, "height": 915},
-    user_agent="Mozilla/5.0 (Linux; Android 11; SM-G991B)..."
-)
+## Estructura del Menú
+```json
+{
+  "restaurant": "Melatte Café",
+  "totalCategories": 6,
+  "totalItems": 50,
+  "categories": [
+    {"name": "Bebidas Frías", "items": [...]},
+    {"name": "Bebidas Calientes", "items": [...]},
+    {"name": "Fusión", "items": [...]},
+    {"name": "Botanas", "items": [...]},
+    {"name": "Bocadillos", "items": [...]},
+    {"name": "Frappés", "items": [...]}
+  ]
+}
 ```
 
-### 2. Deep Scroll (Bounce)
-```python
-for i in range(15):
-    for y in range(0, total_height, 300):
-        await page.evaluate(f"window.scrollTo(0, {y})")
-        await page.wait_for_timeout(150)
-    await page.evaluate("window.scrollTo(0, 0)")
-```
+## Limitaciones
+⚠️ Uber Eats tiene protección reCAPTCHA que bloquea el scraping automatizado:
+- Se detectaron 6 categorías visibles
+- Se estiman ~50 items en total
+- Los precios van de ₡2,000 a ₡6,500
 
-### 3. Wait for JS
-```python
-await page.wait_for_timeout(5000)  # Esperar que cargue JS
-```
-
-## Estructura de Output
-
-```
-output/
-├── productos/productos.json    # Items estructurados
-├── imagenes/                    # Fotos de comida
-├── screenshots/                 # Capturas de pantalla
-└── data/                       # Datos crudos
-```
-
-## Filtrado de Imágenes
-
-| Tamaño | Tipo |
-|--------|------|
-| >30KB | Foto real de comida |
-| <10KB | Ícono o logo |
+## Solución Aplicada
+1. Viewport móvil (412x915px)
+2. User-Agent de Android/iPhone
+3. Anti-detección (navigator.webdriver, chrome runtime)
+4. Bounce scroll para cargar contenido lazy
+5. Extracción por selectores data-testid
+6. Fallback: screenshot analysis
 
 ## Troubleshooting
-
-| Problema | Solución |
-|---------|----------|
-| "0 images" | Esperar más - JS no cargó |
-| "Solo texto" | Mobile viewport + wait_for_timeout |
-| "Imágenes repetidas" | Deduplicar por file size |
-
----
-
-_Creado: 2026-04-12_
+Si el scraping falla con CAPTCHA:
+1. Intentar con diferente User-Agent
+2. Usar la versión móvil de Uber Eats
+3. Considerar acceso manual si es crítico
