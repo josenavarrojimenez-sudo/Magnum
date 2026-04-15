@@ -10,10 +10,10 @@
 
 | Prioridad | Modelo | Provider |
 |-----------|--------|----------|
-| 1 (primary) | `kimi-k2.5` | `openrouter` |
+| 1 (primary) | `moonshotai/kimi-k2.5` | `openrouter` |
 | 2 (fallback) | `kimi-k2.5:cloud` | `ollama` |
-| 3 (fallback) | `qwen3.5` | `ollama` |
-| 4 (fallback) | `google/gemini-3-flash-preview` | `ollama` |
+| 3 (fallback) | `qwen3.5:397b` | `ollama` |
+| 4 (fallback) | `gemini-3-flash-preview:cloud` | `ollama` |
 
 ---
 
@@ -25,8 +25,8 @@
     "primary": "openrouter/moonshotai/kimi-k2.5",
     "fallbacks": [
       "ollama/kimi-k2.5:cloud",
-      "ollama/qwen3.5",
-      "ollama/google/gemini-3-flash-preview"
+      "ollama/qwen3.5:397b",
+      "ollama/gemini-3-flash-preview:cloud"
     ]
   }
 }
@@ -34,6 +34,7 @@
 
 ---
 
-**Creado:** 2026-04-15  
-**Autor:** Jose Navarro  
-**Versión:** 1.0
+**Creado:** 2026-04-15
+**Actualizado:** 2026-04-15
+**Autor:** Jose Navarro
+**Versión:** 1.1

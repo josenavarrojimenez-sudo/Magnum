@@ -32,6 +32,7 @@
 
 ---
 
-**Creado:** 2026-04-15  
-**Autor:** Jose Navarro  
-**Versión:** 1.0
+**Creado:** 2026-04-15
+**Actualizado:** 2026-04-15
+**Autor:** Jose Navarro
+**Versión:** 1.1
